@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Análisis de entrevistas e insights
-parent: Proyecto Wearable
-nav_order: 1
+nav_order: 2
 ---
 
 # Análisis de entrevistas e insights

@@ -4,21 +4,45 @@ title: Inicio
 nav_order: 1
 ---
 
-# Plantilla de documentación con Just the Docs
+# Wearable para detección de toxicidad en el aire
 
-Este repositorio está diseñado para entender como utilizar la plantilla de repositorio que utiliza **"Just the docs"** de Jekyll y el lenguaje **"Markdown"**:
+Proyecto en colaboración entre **Diseño de Moda** y **Ingeniería Mecatrónica**.
+Universidad Iberoamericana Ciudad de México · Semestre agosto–diciembre 2026.
 
-1. **Crear y publicar** el sitio en GitHub Pages.
-2. Aprender la **estructura** típica de un repo de documentación.
-3. Dominar **Markdown** (texto, listas, tablas, código).
-4. Configurar la **navegación** (sidebar, secciones, orden).
-5. Agregar **imágenes, videos** y otros recursos.
-6. Ajustar **estilos** (logo, colores, footer).
+Prenda que mide la calidad del aire que respira el usuario y le avisa, en el momento, cuándo debe protegerse.
 
+---
 
-Contenido:
-- [1. Publicar en GitHub Pages](01-publicar-en-github-pages.md)
-- [2. Estructura del repositorio](02-estructura-del-repo.md)
-- [3. Escribir en Markdown](03-markdown.md)
-- [4. Personalización visual](04-estilos.md)
+## Equipo
 
+| Integrante | Responsabilidad principal |
+|---|---|
+| Santiago Velásquez | Electrónica, firmware y documentación técnica |
+| Alex Bustillos | Integración física, carcasas 3D y ensamble |
+| Paola Morales | Diseño de la prenda, patrón, bocetos y costura |
+
+---
+
+## Contenido
+
+| Sección | Qué contiene |
+|---|---|
+| [Análisis de entrevistas e insights](05-01-insights.md) | Entrevistas, post-its, clusters, insights y oportunidades |
+| [Problema y estado del arte](05-02-estado-del-arte.md) | Delimitación, evidencia, soluciones existentes y análisis crítico |
+| [Diseño de la prenda](05-04-diseno-prenda.md) | Prototipo en tela cruda, ficha técnica, patrón y propuestas de color |
+| [Cronograma y rol de participación](05-03-cronograma.md) | Actividades por sesión y entregas de la página web |
+
+---
+
+## Insights que guían el proyecto
+
+- **I1** — Con la exposición diaria, el cuerpo deja de avisar y la cultura laboral normaliza el malestar.
+- **I2** — Los trabajadores saben cómo protegerse, pero solo lo hacen cuando el riesgo es visible.
+- **I3** — Una alerta solo cambia la conducta si es inmediata, poco frecuente y respaldada por la empresa.
+- **I4** — El trabajador adopta tecnología que se funde con su equipo y aguanta su jornada.
+
+---
+
+## Entrega final
+
+**Feria de Wearables — 24 de noviembre de 2026.**

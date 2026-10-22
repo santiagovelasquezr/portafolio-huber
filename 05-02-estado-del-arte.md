@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Problema y estado del arte
-parent: Proyecto Wearable
-nav_order: 2
+nav_order: 3
 ---
 
 # Planteamiento del problema y estado del arte

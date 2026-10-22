@@ -1,5 +1,5 @@
-title: Portafolio
-description: Repositorio base para enseñar y crear documentación en GitHub Pages con Just the Docs
+title: Proyecto Wearable
+description: Wearable que detecta contaminantes en el aire y avisa al usuario cuándo protegerse. Colaboración entre Moda y Mecatrónica, Universidad Iberoamericana CDMX.
 
 # GitHub Pages: modo recomendado
 remote_theme: just-the-docs/just-the-docs
@@ -7,10 +7,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-# IMPORTANTESssssssssssss:
-# - Para GitHub Pages (Project Page), edita:
-#     url: "https://TU_USUARIO.github.io"
-#     baseurl: "/NOMBRE_DEL_REPO"
 url: "https://santiagovelasquezr.github.io/"
 baseurl: "/portafolio-huber"
 
@@ -23,13 +19,12 @@ just_the_docs:
 
 search_enabled: true
 search:
-  # Cambia el numero dependiendo el numero de subniveles de páginas, poner 1 por default
   heading_level: 2
 
-# Ejemplo de enlace auxiliar (aparece arriba a la derecha)
+# Enlace auxiliar (aparece arriba a la derecha)
 aux_links:
   "Repositorio en GitHub":
-    - "https://github.com/HuberGiron/portafolio-just-the-docs"
+    - "https://github.com/santiagovelasquezr/portafolio-huber"
 
 # Enlaces
 permalink: pretty
